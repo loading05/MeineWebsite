@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white; /* Textfarbe auf Weiß für bessere Lesbarkeit */
+}
+#over18 {
+    background-color: red;
+    color: black;
+    padding: 3% 5%;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    font-size: 300%;
+    font-weight: bold;
+
+}
